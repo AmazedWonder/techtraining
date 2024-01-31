@@ -1,0 +1,19 @@
+# Summary
+
+The internet is a global network of computers that are connected to each other. It allows us to access information and communicate with people all over the world. 
+
+To understand how the internet works, we need to know about the physical mediums that transfer data, such as wires, cables, and Wi-Fi. Data is sent in small packets, and these packets can travel through different routes to reach their destination. 
+
+When we browse the internet, we use a protocol called HTTP to transfer webpages from the internet to our browsers. This allows us to view websites and interact with them. 
+
+To keep our information secure on the internet, we use encryption and public keys. This ensures that our communication is private and protected from hackers. 
+
+Cybersecurity is also important to keep ourselves safe online. We need to be aware of common cybercrimes and take measures to protect ourselves and our devices. It includes measures like using strong passwords, keeping software up to date, and being cautious of suspicious emails or websites.
+
+IP Addresses and DNS: Every computer connected to the internet has a unique identifier called an IP address. It is a series of numbers that allows computers to send and receive data. DNS (Domain Name System) helps to easily access websites without needing to remember long numbers.
+
+Packets, Routing, and Reliability: When we send data over the internet, it is broken down into small packets that take different routes to reach their destination. Routers are devices that help direct the packets along the best path. This flexibility allows for efficient and reliable data transfer.
+
+Encryption and Public Keys: Encryption is a way to encode information so that it can only be understood by the intended recipient. It ensures that our sensitive data, like passwords or credit card information, is kept private and secure. Public keys are used in a system called SSL/TLS (Secure Sockets Layer/Transport Layer Security) to establish secure connections between our devices and websites we visit.
+
+By understanding these fundamental concepts about the internet, we can use it safely and make the most out of its benefits.
