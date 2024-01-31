@@ -1,0 +1,24 @@
+Domain Regulations and Http Status Code Compatibility
+
+HTTP (Hypertext Transfer Protocol) is a set of rules that allows web browsers to load web pages.
+It works by sending requests from the browser to a server, which then sends a response back. 
+
+An HTTP request consists of different parts:
+- HTTP version: The version of HTTP being used.
+- URL: The web address of the page or resource being requested.
+- HTTP method: The action the request wants to perform, such as GET (to retrieve information) or POST (to submit information).
+- Request headers: Information about the request, like the browser being used.
+- Optional request body: Additional data, like form information, if needed.
+
+An HTTP response is what the browser receives from the server. It includes:
+- HTTP status code: A three-digit code that indicates if the request was successful or encountered an error.
+- Response headers: Information about the response, such as the language or format of the data.
+- Optional response body: The actual content of the response, usually the HTML data that makes up a webpage.
+
+HTTP status codes are used to indicate the outcome of a request. Codes starting with '2' mean success, like '200 OK'.
+Codes starting with '4' or '5' indicate errors, such as '404 NOT FOUND' (when a page is missing) or '500 INTERNAL SERVER ERROR' (when something went wrong on the server).
+
+HTTP headers are used in both requests and responses to provide additional information,
+like the browser being used or the format of the data being sent.
+
+Understanding how HTTP works helps us navigate the internet and troubleshoot any issues that may arise while browsing or accessing web pages.
