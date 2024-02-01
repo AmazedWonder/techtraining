@@ -1,0 +1,68 @@
+Git Vs. Github: Central Cloudspace for software engineers
+
+GitHub is a widely used platform in the software development community, offering a variety of features and benefits for developers collaborating on projects.
+Here are some additional details about GitHub and its functionalities:
+
+1. Version Control:
+GitHub is primarily known for its version control capabilities.
+It allows developers to track changes to their codebase over time,
+making it easier to manage different versions of a project and collaborate effectively.
+
+2. Collaboration:
+GitHub provides a platform for seamless collaboration among developers.
+Multiple team members can work on the same project simultaneously,
+creating branches to work on different features or bug fixes without interfering with each other's work.
+These branches can later be merged into the main codebase.
+
+3. Pull Requests:
+Pull requests are a fundamental feature of GitHub.
+They enable developers to propose changes they have made in their own branches and,
+request a review from other team members. Pull requests allow for discussions, feedback, and
+code reviews before merging the changes into the main branch.
+
+4. Issue Tracking:
+GitHub includes a built-in issue tracking system, which helps teams manage and prioritize tasks, bugs, and
+feature requests. Issues can be assigned to specific team members, labeled for categorization,
+and tracked throughout their lifecycle.
+
+5. Documentation:
+GitHub provides a space for project documentation through README files.
+These files, written in Markdown syntax, typically contain information about the project, its purpose,
+installation instructions, and usage guidelines.
+Documentation is crucial for open-source projects to help other developers understand and contribute to the codebase.
+
+6. Continuous Integration/Continuous Deployment (CI/CD):
+GitHub integrates with popular continuous integration and deployment tools, such as Jenkins, Travis CI, and CircleCI.
+This integration allows for automated testing, building, and deployment of code changes,
+ensuring code quality and smooth project deployment.
+
+7. Community and Open Source:
+GitHub hosts a vibrant open-source community where developers can explore and contribute to various projects.
+It provides a platform for collaboration and knowledge sharing, allowing developers to learn from each other and contribute to the open-source ecosystem.
+
+8. Project Management:
+GitHub offers project management features, such as kanban boards and milestones,
+to help teams organize and track their work. These tools provide an overview of project progress, task assignments,
+and upcoming deadlines.
+
+Overall, GitHub is not just a code hosting platform; it is a comprehensive ecosystem that facilitates collaboration,
+version control, issue tracking, documentation, and project management for software development teams.
+Its user-friendly interface, extensive integrations,
+and active community make it a go-to platform for developers worldwide.
+
+The guide covers topics such as creating a GitHub account, downloading Git, configuring Git settings,
+creating a new directory, creating a repository, creating branches, making and committing changes,
+opening and merging pull requests.
+The guide also highlights the benefits of using branches and explains how to delete branches.
+By following the guide, users can learn how to create and manage projects on GitHub.
+
+To use GitHub:
+You need a GitHub account(http://github.com/);
+Step One: Download git for your own preferred operating system
+Step Two: Open Terminal
+Step Three: Tell git you exist i.e configure your name and email
+Step Four: Create a new directory
+Step Six: Create a branch
+Step Seven: Make and commit changes to your repo
+Step Eight: Opening a pull request(https://docs.github.com/en/get-started/quickstart/hello-world#opening-a-pull-request)
+Step Nine: Merging your pull request
